@@ -1,5 +1,5 @@
 # AI-functions
-Application programming interface key, so that providing for all to use AI functions like, Image and video analysis, get legal responses and summarize documents with Q&amp;A on it. 
+Application programming interface, so that providing for all to use AI functions like, Image and video analysis, get legal responses and summarize documents with Q&amp;A on it. 
 include 3 files only in this zipped folder.
 Each file unique function of AI.
 You must have a API Key subscription from any common AI company , example: from OpenAI, Microsoft, google ..etc. 
